@@ -1,5 +1,6 @@
 WPU RESOLUSI
 - Konsisten untuk membuat konten 2x seminggu
+  * aaminin
 - Membuat platform untuk pengelolaan video
 - Membuat forum diskusi
 - Kolaborasi dengan lebih banyak expert
