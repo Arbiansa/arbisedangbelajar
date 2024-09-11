@@ -1,6 +1,7 @@
 WPU RESOLUSI
 - Konsisten untuk membuat konten 2x seminggu
   * aaminin
+  * yraa
 - Membuat platform untuk pengelolaan video
 - Membuat forum diskusi
 - Kolaborasi dengan lebih banyak expert
